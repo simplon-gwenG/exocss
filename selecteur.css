@@ -1,0 +1,18 @@
+.master div img{
+	width:50%;
+	height:50%;
+	float:left;
+}
+.master div{
+	width:47%;
+	height:47%;
+	background-color:#ABCF99;
+	position: relative;
+	display:inline-block;
+	border:1px solid #85858F;
+	margin: 10px 10px  10px 10px ;
+}
+.master h3{
+	color:white;
+	text-transform:uppercase;
+}
